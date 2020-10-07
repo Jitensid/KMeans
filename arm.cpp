@@ -2,7 +2,6 @@
 
 #include<bits/stdc++.h>
 #include<armadillo>
-#include<python3.7m/Python.h>
 using namespace std;
 
 // COMMAND TO COMPILE FILE
